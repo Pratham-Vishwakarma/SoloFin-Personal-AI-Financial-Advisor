@@ -2,6 +2,8 @@
 
 Welcome to **Solofin**, the future of personalized financial advisory. Leveraging cutting-edge AI technology, Solofin is more than just a chatbot; it's your partner in navigating the complex world of finance. With Solofin, gain unparalleled insights into investment strategies, financial terminology, and market trends, all while experiencing the warmth of empathetic support and the strength of community.
 
+![Solofin Logo](logo.png) 
+
 ## 🌟 Features
 
 - **Tailored Financial Guidance**: At the heart of Solofin are advanced Natural Language Understanding (NLU) models, designed to grasp your financial queries with high precision, ensuring that every piece of advice is relevant to your unique situation.
